@@ -1,0 +1,16 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "plusBeta": false,
+    "isCreatingSolution": true,
+    "version": "1.15.0",
+    "libraryName": "ax-rc-dashboard",
+    "libraryId": "242a5cc5-d434-45e1-aa61-e963ad23bc6d",
+    "environment": "spo",
+    "packageManager": "npm",
+    "solutionName": "AxRC-dashboard",
+    "solutionShortDescription": "AxRC-dashboard description",
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "componentType": "webpart"
+  }
+}

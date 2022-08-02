@@ -1,0 +1,40 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "ax-rc-dashboard-client-side-solution",
+    "id": "242a5cc5-d434-45e1-aa61-e963ad23bc6d",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "developer": {
+      "name": "",
+      "websiteUrl": "",
+      "privacyUrl": "",
+      "termsOfUseUrl": "",
+      "mpnId": "Undefined-1.15.0"
+    },
+    "metadata": {
+      "shortDescription": {
+        "default": "AxRC-dashboard description"
+      },
+      "longDescription": {
+        "default": "AxRC-dashboard description"
+      },
+      "screenshotPaths": [],
+      "videoUrl": "",
+      "categories": []
+    },
+    "features": [
+      {
+        "title": "ax-rc-dashboard Feature",
+        "description": "The feature that activates elements of the ax-rc-dashboard solution.",
+        "id": "44547ae0-2e56-4c6a-9ca1-a89ea782d769",
+        "version": "1.0.0.0"
+      }
+    ]
+  },
+  "paths": {
+    "zippedPackage": "solution/ax-rc-dashboard.sppkg"
+  }
+}
