@@ -22,6 +22,7 @@
     "description": { "default": "AMRC-dashboard description" },
     "officeFabricIconFontName": "Page",
     "properties": {
+      "listname": "",
       "description": "HelloWorld",
       "test": "Multi-line text field",
       "test1": true,
